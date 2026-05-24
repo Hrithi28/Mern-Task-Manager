@@ -1,6 +1,6 @@
 # TaskFlow - MERN Kanban Task Manager
 
-![TaskFlow Header](https://via.placeholder.com/1200x400/0a0a0f/6c63ff?text=TaskFlow+-+MERN+Task+Manager)
+
 
 A feature-rich, premium Kanban-style task management application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). 
 
